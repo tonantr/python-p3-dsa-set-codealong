@@ -1,6 +1,6 @@
 # Set Data Structure Code Along
 
-## Learning Goals
+## Learning Goals...
 
 - Identify the use cases for a `Set`.
 - Implement common methods for a `Set`.
